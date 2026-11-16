@@ -18,6 +18,8 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 - 📃 [LaTeX File Template](https://github.com/MatthewEmer/LaTeX-File-Template) - A clean, reusable LaTeX document template with supporting documentation and build files for creating professional, structured academic documents. ⏫ Actively maintained.
 
+- ♟️[Chess Encoding](https://github.com/MatthewEmer/Durhack-2026) - Our entry for Durhack 2026. This is a steganography program that encodes three word phrases as chess game states. 🔒 Archived.
+
 - 📑 [Markdown Reader](https://github.com/MatthewEmer/markdown-reader) - (Forked from [petertzy](https://github.com/petertzy)) A cross-platform local-first Markdown editor with tabbed editing with a real-time preview. 🔒 Archived.
 
 - 🎮 [Durhack X](https://github.com/MatthewEmer/Durhack-X) - A collaborative project completed during a one day hackathon in my first year at Durham University. 🔒 Archived.
