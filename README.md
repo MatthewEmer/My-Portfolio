@@ -10,11 +10,15 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 ### Currently Working On
 
-- 📊 [REFSIX Data](https://github.com/MatthewEmer/REFSIX-Data) - A data analysis tool which uses REFSIX's REST API to collate the data from their app, and produce meaningful insights into trends and recent performances.
+- 📊 [REFSIX Data](https://github.com/MatthewEmer/REFSIX-Data) - I am developing a data analysis tool which uses REFSIX's REST API to collate the data from their app, and produce meaningful insights into trends and recent performances.
+  
+- 🧗‍♂️ [Durham University Speleological Association's Website](https://speleologicalassociation.webspace.durham.ac.uk/) - I am currently updating the website's design.
 
 ### My Projects
 
 - 📃 [LaTeX File Template](https://github.com/MatthewEmer/LaTeX-File-Template) - A clean, reusable LaTeX document template with supporting documentation and build files for creating professional, structured academic documents. ⏫ Actively maintained.
+
+- ♟️[Chess Encoding](https://github.com/MatthewEmer/Durhack-2026) - Our entry for Durhack 2026. This is a steganography program that encodes three word phrases as chess game states. 🔒 Archived.
 
 - 📑 [Markdown Reader](https://github.com/MatthewEmer/markdown-reader) - (Forked from [petertzy](https://github.com/petertzy)) A cross-platform local-first Markdown editor with tabbed editing with a real-time preview. 🔒 Archived.
 
