@@ -28,7 +28,7 @@ Thank you for choosing to view my GitHub portfolio. This repository contains lin
 
 #### University Work
 
-- ➗ [Partitions Seminar Report](https://github.com/MatthewEmer/Discrete-Maths-Seminar-Report) - My paper written as a part of my Discrete Mathematics module during my first year. It details my understanding of partitions taught during seminars. 
+- ➗ [Partitions Seminar Report](./Archive/Year-1-Discrete-Maths-Seminar-Report/) - My paper written as a part of my Discrete Mathematics module during my first year. It details my understanding of partitions taught during seminars. 
 
 #### A-Level Work
 

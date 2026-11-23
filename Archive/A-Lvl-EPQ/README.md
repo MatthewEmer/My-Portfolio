@@ -14,7 +14,7 @@ This folder is here as an archive, and will no longer be updated.
 
 ## Installation
 
-To use this document, you can download the pdf, or view them in place on the repository.
+To use this document, you can download the pdf, or view it in place on the repository.
 
 ## Note from the Developer
 
